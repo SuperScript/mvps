@@ -1,5 +1,5 @@
 ---
-name: MVP Analysis
+name: mvp-analysis
 description: >-
   This skill should be used when the user asks to "analyze MVP results",
   "review experiment results", "evaluate MVP outcome", "what do the results

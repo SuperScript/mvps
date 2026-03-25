@@ -1,5 +1,5 @@
 ---
-name: MVP Creation
+name: mvp-creation
 description: >-
   This skill should be used when the user asks to "create an MVP",
   "build an MVP", "plan an MVP", "scope an MVP", "validate my idea",
