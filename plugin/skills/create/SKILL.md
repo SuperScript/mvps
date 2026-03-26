@@ -1,5 +1,5 @@
 ---
-name: mvp-creation
+name: mvps:create
 description: >-
   This skill should be used when the user asks to "create an MVP",
   "build an MVP", "plan an MVP", "scope an MVP", "validate my idea",
@@ -9,10 +9,9 @@ description: >-
   identify the Maximally Valuable Problem, form a testable hypothesis
   about revealed preference, set a threshold test, and design an
   experiment.
-allowed-tools:
-  - Read
-  - Write
-  - AskUserQuestion
+disable-model-invocation: false
+user-invocable: true
+allowed-tools: Read, Write, AskUserQuestion
 ---
 
 # MVP Creation

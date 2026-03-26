@@ -1,5 +1,5 @@
 ---
-name: mvp-analysis
+name: mvps:analyze
 description: >-
   This skill should be used when the user asks to "analyze MVP results",
   "review experiment results", "evaluate MVP outcome", "what do the results
@@ -7,10 +7,9 @@ description: >-
   experiment data", "analyze my test results", or "review my MVP experiment".
   Guides structured post-experiment analysis against the pre-committed
   threshold test.
-allowed-tools:
-  - Read
-  - Write
-  - AskUserQuestion
+disable-model-invocation: false
+user-invocable: true
+allowed-tools: Read, Write, AskUserQuestion
 ---
 
 # MVP Analysis
