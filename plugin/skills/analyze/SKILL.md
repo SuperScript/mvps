@@ -1,7 +1,7 @@
 ---
 name: mvps:analyze
 description: >-
-  This skill should be used when the user asks to "analyze MVP results",
+  This skill should be used when the user or model asks to "analyze MVP results",
   "review experiment results", "evaluate MVP outcome", "what do the results
   mean", "post-experiment analysis", "did the MVP pass", "interpret my
   experiment data", "analyze my test results", or "review my MVP experiment".

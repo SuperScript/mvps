@@ -1,7 +1,7 @@
 ---
 name: mvps:create
 description: >-
-  This skill should be used when the user asks to "create an MVP",
+  This skill should be used when the user or model asks to "create an MVP",
   "build an MVP", "plan an MVP", "scope an MVP", "validate my idea",
   "test a hypothesis", "help me plan an MVP", "MVP plan", "design an
   experiment for my idea", "test my product idea", or "define a minimum
